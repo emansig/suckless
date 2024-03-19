@@ -1,0 +1,2 @@
+# suckless
+mina suckless configs
